@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 👋, My name is Tahmid Faiz</h1>
-<h3 align="center">An aspiring Software Developer looking to jumpstart my professional career!</h3>
+<h3 align="center">⚡️An aspiring Software Developer looking to amplify my professional career⚡️</h3>
 
 I am currently studying Computer Science at Wayne State University. This has definitely been a journey and I have learned so much these past few years and met some really great people. Computer Science has shown me a world of endless possibilities that are in the palm of my hands. I am currently seeking to learn more about software development through a professional career.  
 
