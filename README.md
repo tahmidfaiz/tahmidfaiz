@@ -13,7 +13,7 @@ This is my GitHub where I upload some of my projects. I know I don't have much r
 
 - 📫 How to reach me: **ftahmid2546@gmail.com**
 
-- 💻 Check out my personal portfolio website at https://tinyurl.com/tahmidWebsite to learn more about me. 
+- 💻 Check out my personal portfolio website at https://tinyurl.com/tahmidWebsite to learn more about me
 
 - 💬 Ask me about **Java, C++, React, HTML/CSS, Python** and more
 
