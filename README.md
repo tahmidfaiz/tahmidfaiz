@@ -17,7 +17,7 @@ This is my GitHub where I upload some of my projects. I know I don't have much r
 
 - 💬 Ask me about **Java, C++, React, HTML/CSS, Python** and more
 
-- ⚡ Fun fact **Although many times I am on my computer working on projects, I love to be outdoors and play basketball 🏀**
+- ⚡ Fun fact: **Although many times I am on my computer working on projects, I love to be outdoors and play basketball 🏀**
 
 
 <h3 align="left">Languages and Tools:</h3>
