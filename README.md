@@ -7,13 +7,15 @@ This is my GitHub where I upload some of my projects. I know I don't have much r
 
 - 🔭 I’m currently working on [Levin - Sitemap Website](https://github.com/WSU-4110/Levin)
 
-- 🌱 I’m currently learning **Backend development with Spring**
-
 - 👨‍💻 All of my projects are available at [https://github.com/tahmidfaiz](https://github.com/tahmidfaiz)
 
-- 💬 Ask me about **Java, C++, React, HTML/CSS, Python** and more
+- 🌱 I’m currently learning **Backend development with Spring**
 
-- 📫 How to reach me **ftahmid2546@gmail.com**
+- 📫 How to reach me: **ftahmid2546@gmail.com**
+
+- 💻 Check out my personal portfolio website at https://tinyurl.com/tahmidWebsite to learn more about me. 
+
+- 💬 Ask me about **Java, C++, React, HTML/CSS, Python** and more
 
 - ⚡ Fun fact **Although many times I am on my computer working on projects, I love to be outdoors and play basketball 🏀**
 
