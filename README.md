@@ -6,7 +6,7 @@ I am a recent Computer Science graduate and a former SWE intern in the automotiv
 
 This is my GitHub where I upload some of my projects. I know I don't have much right now but thank you for checking out my Github! If you are reading this, I appreciate you checking out my GitHub. 
 
-- 🔭 I’m currently working on a **Automotive Machine Learning Threat Detection System for a startup company known as Mbwaka Tech**
+- 🔭 I’m currently working on a **Automotive Machine Learning Threat Detection System** for a startup company known as **Mbwaka Tech**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tahmidfaiz](https://github.com/tahmidfaiz)
 
