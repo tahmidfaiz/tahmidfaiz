@@ -1,15 +1,16 @@
-<h1 align="center">Welcome 👋, My name is Tahmid Faiz</h1>
-<h3 align="center">⚡️An aspiring Software Developer looking to amplify my professional career⚡️</h3>
+<h1 align="center">Welcome 👋 My name is Tahmid Faiz</h1>
+<h3 align="center">⚡️An aspiring Software Developer⚡️</h3>
 
-I am currently studying Computer Science at Wayne State University. This has definitely been a journey and I have learned so much these past few years and met some really great people. Computer Science has shown me a world of endless possibilities that are in the palm of my hands. I am currently seeking to learn more about software development through a professional career.  
+I am a recent Computer Science graduate and a former SWE intern in the automotive industry. This has definitely been a journey and I have learned so much these past few years and met some great individuals. Computer Science has shown me a world of endless possibilities that are in the palm of my hands and my experience in the automotive industry has shown me how innovative ideas are brought to life. I am currently seeking to learn more about software development through a full-time professional career where I can bring innovation to life.
+  
 
 This is my GitHub where I upload some of my projects. I know I don't have much right now but thank you for checking out my Github! If you are reading this, I appreciate you checking out my GitHub. 
 
-- 🔭 I’m currently working on [Levin - Sitemap Website](https://github.com/WSU-4110/Levin)
+- 🔭 I’m currently working on a **Machine Learning Threat Detection System for a startup company known as Mbwaka Tech**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tahmidfaiz](https://github.com/tahmidfaiz)
 
-- 🌱 I’m currently learning **Backend development with Spring**
+- 🌱 I’m currently learning **embedded software development**
 
 - 📫 How to reach me: **ftahmid2546@gmail.com**
 
