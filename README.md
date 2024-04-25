@@ -38,6 +38,18 @@ This is my GitHub where I upload some of my projects. I know I don't have much r
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android Development" width="40" height="40"/> </a> 
+<a href="https://www.apple.com/ios/ios-17/" target="_blank" rel="noreferrer"> <img src="https://github.com/tahmidfaiz/tahmidfaiz/assets/113638585/a3db710e-af15-4e7f-9bd5-bb6a1f775cdc" alt="IOS Development" width="40" height="40"/> </a> 
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40"/> </a> 
+<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/> </a> 
+<a href="https://www.geeksforgeeks.org/embedded-c/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/embeddedc/original-wordmark.svg" alt="Embedded C" width="40" height="40"/> </a> 
+<a href="https://www.ibm.com/topics/artificial-intelligence" target="_blank" rel="noreferrer"> <img src="https://github.com/tahmidfaiz/tahmidfaiz/assets/113638585/c379478f-626b-4111-be87-256bb1250c66" alt="Artificial intelligence" width="40" height="40"/> </a> 
+<a href="https://www.ibm.com/topics/machine-learning" target="_blank" rel="noreferrer"> <img src="https://github.com/tahmidfaiz/tahmidfaiz/assets/113638585/2cbaab31-0da6-4f29-984b-cb17c9b4255f" alt="Machine Learning" width="40" height="40"/> </a> 
+
+
+
+
 
 
 
